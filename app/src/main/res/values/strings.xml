@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">MyWork</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="symptom_title">Symptom Check List:</string>
+    <string name="symptom_instruction">Since the injury, has the person experienced any of these symptoms, any more then usual today or in the past day?</string>
+
+   <!--physical symptoms strings-->
+    <string name="physical">PHYSICAL</string>
+    <string name="nausea">Nausea</string>
+    <string name="headache">Headache</string>
+    <string name="vomiting">Vomiting</string>
+    <string name="visualProblem">VisualProblem</string>
+    <string name="numbness">Numbness</string>
+
+    <!--Cognitive symptoms strings-->
+    <string name="cognitive">COGNITIVE</string>
+    <string name="feeling_mentally_foggy">Feeling Mentally Foggy</string>
+    <string name="feeling_slowed_down">Feeling slowed Down</string>
+    <string name="difficulty_concentrating">Difficulty Concentrating</string>
+    <string name="difficulty_remembering">Difficulty Remembering</string>
+
+    <!--Emotional symptoms strings-->
+    <string name="emotional">EMOTIONAL</string>
+    <string name="irritability">Irritability</string>
+    <string name="sadness">Sadness</string>
+    <string name="more_emotional">More Emotional</string>
+    <string name="nervousness">Nervousness</string>
+
+    <!--Sleep symptoms strings-->
+    <string name="sleep">SLEEP</string>
+    <string name="drowsiness">Irritability</string>
+    <string name="sleeping_lessthan_usual">Sleeping Less Than Usual</string>
+    <string name="sleeping_morethan_usual">Sleeping More Than Usual</string>
+    <string name="trouble_falling_asleep">Trouble Falling Asleep</string>
+
+    <string name="total">Total</string>
+
+  <!--radio btn strings-->
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="symptoms_summary">SYMPTOMS SUMMARY</string>
+    <string name="symptom_name">SYMPTOM</string>
+    <string name="symptom_totalYes">TOTAL</string>
+
+</resources>
